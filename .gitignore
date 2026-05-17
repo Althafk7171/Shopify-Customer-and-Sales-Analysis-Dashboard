@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary Office files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Power BI temporary files
+*.tmp
+*.log
+
+# Cache folders
+__pycache__/
+.ipynb_checkpoints/
