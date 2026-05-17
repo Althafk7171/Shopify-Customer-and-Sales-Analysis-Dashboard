@@ -1,6 +1,6 @@
 # Data
 
-This folder contains the dataset used for the Shopify Customer & Sales Analysis Dashboard.
+This folder contains the dataset used for the Shopify Customer and Sales Analysis Dashboard.
 
 ## File
 
@@ -8,7 +8,20 @@ This folder contains the dataset used for the Shopify Customer & Sales Analysis 
 
 ## Dataset Details
 
-The dataset includes Shopify transaction fields such as order number, customer ID, invoice date, gateway, product type, quantity, subtotal price, total price USD, total tax, city, province, and country.
+The dataset includes Shopify transaction fields such as:
+
+- Order number
+- Customer ID
+- Invoice date
+- Gateway
+- Product type
+- Quantity
+- Subtotal price
+- Total price USD
+- Total tax
+- City
+- Province
+- Country
 
 ## Note
 
