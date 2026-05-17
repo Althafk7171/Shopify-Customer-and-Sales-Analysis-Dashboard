@@ -1,6 +1,6 @@
 # Images
 
-This folder contains screenshots of the Shopify Customer & Sales Analysis Power BI dashboard.
+This folder contains screenshots of the Shopify Customer and Sales Analysis Power BI dashboard.
 
 ## Files
 
