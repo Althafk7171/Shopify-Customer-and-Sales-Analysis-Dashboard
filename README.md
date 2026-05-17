@@ -302,7 +302,3 @@ This project includes a data terminology document that explains important Shopif
 This project is developed for academic and learning purposes.
 
 ---
-
-excel
-dashboard
-```
