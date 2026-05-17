@@ -1,13 +1,8 @@
-## Dashboard Screenshots
+# Images
 
-### Dashboard Overview
+This folder contains screenshots of the Shopify Customer & Sales Analysis Power BI dashboard.
 
-This page provides a complete summary of Shopify sales and customer funnel performance. It includes transaction KPIs, customer behavior metrics, retention metrics, regional sales distribution, payment gateway analysis, product type sales, and net sales trend over time.
+## Files
 
-![Dashboard Overview](images/dashboard_overview.png)
-
-### Details Tab
-
-This page provides detailed transaction-level records from the Shopify sales dataset. It allows users to review order details, customer information, product type, payment gateway, net sales, tax, and total price values.
-
-![Details Tab](images/details_tab.png)
+- `dashboard_overview.png` - Main dashboard page showing Shopify sales KPIs, customer behavior metrics, retention metrics, regional overview, payment gateway analysis, product type sales, and net sales trend over time.
+- `details_tab.png` - Detailed transaction table showing order number, customer details, location, product type, payment gateway, net sales, tax, and total price.
