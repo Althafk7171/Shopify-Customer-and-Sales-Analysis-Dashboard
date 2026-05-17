@@ -1,28 +1,57 @@
-# Data
+# Dashboard
 
-This folder contains the dataset used for the Shopify Customer and Sales Analysis Dashboard.
+This folder contains the Power BI dashboard file for the Shopify Customer and Sales Analysis Dashboard project.
 
 ## File
 
-- `shopify_sales.xlsx` - Shopify sales transaction dataset containing order, customer, product, payment, tax, and sales details.
+- `shopify_sales_dashboard.pbix` - Power BI dashboard file.
 
-## Dataset Details
+## Dashboard Pages
 
-The dataset includes Shopify transaction fields such as:
+The dashboard contains two main pages:
 
-- Order number
+- Shopify Analysis
+- Details Tab
+
+## Shopify Analysis Page
+
+This page includes:
+
+- Net Sales
+- Total Quantity
+- Net Average Order Value
+- Total Customers
+- Single Order Customers
+- Repeat Customers
+- Lifetime Value
+- Repeat Rate
+- Purchase Frequency
+- Net Sales Trend Over Time
+- Regional Overview by Province and City
+- Net Sales by Gateway Payment Method
+- Net Sales by Product Type
+
+## Details Tab Page
+
+This page includes transaction-level records such as:
+
+- Order Number
+- Customer Name
 - Customer ID
-- Invoice date
-- Gateway
-- Product type
-- Quantity
-- Subtotal price
-- Total price USD
-- Total tax
-- City
 - Province
-- Country
+- City
+- Zip Code
+- Product Type
+- Gateway
+- Net Sales
+- Total Tax
+- Total Price USD
 
-## Note
+## How to Open
 
-This dataset is used for dashboard creation and business analysis practice.
+Open the `.pbix` file using Microsoft Power BI Desktop.
+
+If Power BI asks for the data source path, update the source path to:
+
+```text
+../data/shopify_sales.xlsx
